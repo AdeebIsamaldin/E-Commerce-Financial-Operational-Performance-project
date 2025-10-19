@@ -21,14 +21,14 @@ Key Features :
 
 
 Key Insights and Findings:
--Total Revenue: $2.06 Million, reflecting strong overall campaign performance.
--Achieved Profit: $0.46 Million, representing an effective profit margin of over 50%.
--Average Order Value (AOV): 112, indicating healthy purchase patterns among customers.
--Top 3 Profitable Products: Tyre, Car Pillow & Neck Rest, and Car Speakers — contributing over 60% of total profit.
--Customer Segmentation: Returning Members generated more than 85% of total revenue, confirming strong brand loyalty.
--Order Priority: Around 70% of orders were marked as High Priority, showing high conversion quality from marketing campaigns.
--Monthly Revenue Trend: Revenue grew steadily throughout the year, peaking in December with a 120% increase compared to January.
--Product Category Focus: The “Auto & Accessories” segment recorded the highest sales volume and profit margins.
+1-Total Revenue: $2.06 Million, reflecting strong overall campaign performance.
+2-Achieved Profit: $0.46 Million, representing an effective profit margin of over 50%.
+3-Average Order Value (AOV): 112, indicating healthy purchase patterns among customers.
+4-Top 3 Profitable Products: Tyre, Car Pillow & Neck Rest, and Car Speakers — contributing over 60% of total profit.
+5-Customer Segmentation: Returning Members generated more than 85% of total revenue, confirming strong brand loyalty.
+6-Order Priority: Around 70% of orders were marked as High Priority, showing high conversion quality from marketing campaigns.
+7-Monthly Revenue Trend: Revenue grew steadily throughout the year, peaking in December with a 120% increase compared to January.
+8-Product Category Focus: The “Auto & Accessories” segment recorded the highest sales volume and profit margins.
 
 
 
